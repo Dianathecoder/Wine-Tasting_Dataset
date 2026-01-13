@@ -52,6 +52,31 @@ Se utilizan librerías estándar para análisis y visualización de datos:
 - Países con mayor y menor puntuación media.
 - Tendencias generales observadas en el dataset.
 
+## 9.Mini análisis
+
+A lo largo del proyecto se han analizado distintos aspectos del conjunto de datos para entender mejor el comportamiento de los vinos:
+
+- Comparación de la **puntuación media por país**, identificando regiones con vinos mejor y peor valorados.
+- Análisis de las **bodegas con mayor puntuación media**, destacando aquellas con una calidad más consistente.
+- Estudio de la relación entre **precio y puntuación**, observando si los vinos más caros reciben necesariamente mejores valoraciones.
+- Identificación de vinos **sobrevalorados** (precio alto y puntuación baja) y vinos con **buena relación calidad-precio**.
+- Análisis específico de los vinos de **España**, comparando los más caros por punto y los más económicos con alta puntuación.
+- Comparación de la **puntuación media por variedad de uva**.
+- Evaluación del impacto de los **valores nulos en el precio** sobre el análisis.
+- Estudio de la influencia de la **longitud de las reseñas** en la puntuación y el precio.
+
+## 10.Gráficos
+
+Para apoyar el análisis, se generaron distintas visualizaciones que facilitan la interpretación de los datos:
+
+- Histogramas de precios y puntuaciones.
+- Gráficos de barras de países y bodegas con mayor puntuación media.
+- Gráficos comparativos de cantidad de vinos por país.
+- Visualizaciones de vinos españoles sobrevalorados y con mejor relación calidad-precio.
+- Gráficos de dispersión para analizar la relación entre:
+  - Precio y puntuación.
+  - Longitud de la reseña y puntuación.
+
 ## Tecnologías utilizadas
 
 - Python
